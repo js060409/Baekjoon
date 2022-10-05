@@ -1,3 +1,3 @@
-word = input()
-ascccci = ord(word)
-print(ascccci)
+ascii = input()
+ascii2 = ord(ascii)
+print(ascii2)
